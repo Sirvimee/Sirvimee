@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/Sirvimee/Sirvimee/blob/main/Githubi-kaanepilt.gif" align="center" style="width: 100%" />
+<img src="https://github.com/Sirvimee/Sirvimee/blob/main/Githubi-kaanepilt-uus.gif" align="center" style="width: 100%" />
 </div>  
   
 # <div align="center">Hi there 👋</div>
