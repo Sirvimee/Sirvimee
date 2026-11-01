@@ -1,13 +1,3 @@
-<div align="center">
-<img src="https://github.com/Sirvimee/Sirvimee/blob/main/Githubi-kaanepilt-uus.gif" align="center" style="width: 100%" />
-</div>  
-  
-# <div align="center">Hi there 👋</div>
-
-<br/> 
-<div align="center">I'm Meeli, a full-time designer working remotely since 1996 and studying programming to take my work to the next level 🚀.</div>  
-<br/>  
-
 ## <div align="center">MY SKILL SET</div>  
 
 <div align="center"> 
@@ -67,5 +57,5 @@
   
  ## <div align="center">RECENT GITHUB ACTIVITY</div>  
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sirvimee&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sirvimee&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
